@@ -1,0 +1,127 @@
+.parentdiv {
+    border: 4px solid black;
+    width: 420px;
+    margin: auto;
+    background-color: rgb(6, 32, 55);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+
+.maindiv {
+    display: block;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    font-size: 50px;
+}
+
+.incorrect {
+    vertical-align: top;
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+    height: 60px;
+    width: 60px;
+    background-color: gray;
+    color: white;
+    border: 4px solid black;
+    border-radius: 10px;
+}
+
+.correctLocation {
+    vertical-align: top;
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+    height: 60px;
+    width: 60px;
+    background-color: rgb(27, 137, 113);
+    color: white;
+    border: 4px solid black;
+    border-radius: 10px;
+}
+
+.correctLetter {
+    vertical-align: top;
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+    height: 60px;
+    width: 60px;
+    background-color: orange;
+    color: white;
+    border: 4px solid black;
+    border-radius: 10px;
+}
+
+.form1 {
+    text-align: center;
+    padding: 10px;
+}
+
+.textbox {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    width: 418px;
+    height: 60px;
+    border: 4px solid black;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+    background-color: rgb(6, 32, 55);
+    border-radius: 10px;
+}
+
+h1 {
+    height: auto;
+    background-color: rgb(6, 32, 55);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 40px;
+    border: 4px solid black;
+    border-radius: 10px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    
+}
+
+body {
+    background-color: rgb(26, 52, 106);
+}
+
+
+.div1 {
+    display: block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 30px;
+    height: auto;
+    width: auto;
+    padding: 25px;
+}
+
+.incorrect_old {
+    color: white;
+    background-color: gray;
+    border: 4px solid black;
+    padding: 15px;
+    width: 100px;
+}
+
+.correctLocation_old {
+    color: white;
+    background-color: rgb(27, 137, 113);
+    border: 4px solid black;
+    padding: 15px;
+}
+
+.correctLetter_old {
+    color: white;
+    background-color: orange;
+    border: 4px solid black;
+    padding: 15px;
+}
+
